@@ -1,0 +1,15 @@
+{
+	"enableAutoDiscovery": true,
+	"compileOnSave": false,
+	"compilerOptions": {
+		"target": "es2018",
+		"module": "amd",
+		"outFile": "main.js",
+		"moduleResolution": "node",
+		"newLine": "LF",
+		"removeComments": true,
+		"noImplicitThis": true,
+		"suppressImplicitAnyIndexErrors": true
+	},
+	"skipLibCheck": true
+}
